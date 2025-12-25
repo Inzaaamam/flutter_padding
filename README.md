@@ -21,4 +21,4 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_padding: ^0.0.1
+  easy_padding: ^0.0.1
