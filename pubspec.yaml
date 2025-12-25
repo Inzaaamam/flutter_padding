@@ -1,6 +1,6 @@
 name: flutter_padding
 description: A lightweight Flutter package to add padding to widgets with clean and readable extension methods.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Inzaaamam/flutter_padding
 repository: https://github.com/Inzaaamam/flutter_padding
 issue_tracker: https://github.com/Inzaaamam/flutter_padding/issues
